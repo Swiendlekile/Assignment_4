@@ -1,0 +1,2 @@
+-- Active: 1725431903488@@127.0.0.1@3306@people
+CREATE DATABASE people;
